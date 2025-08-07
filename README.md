@@ -7,7 +7,7 @@
     [<a href="#experiments">🔬 experiments</a>]
     [<a href="#applications">🤖 applications</a>]
     [<a href="https://huggingface.co/spaces/SecureLLMSys/AttnTrace">⚡demo</a>]
-    [<a href="https://arxiv.org/abs/2506.04202">📚 paper</a>]
+    [<a href="https://arxiv.org/abs/2508.03793">📚 paper</a>]
 <!--     [<a href="https://twitter.com/aleks_madry/status/1787564287986389277">tweet</a>] -->
 <!--     [paper coming soon!] -->
     <br>
@@ -24,7 +24,7 @@ AttnTrace is an efficient context traceback method for extremely long inputs (e.
 Please check our [demo](https://huggingface.co/spaces/SecureLLMSys/AttnTrace) for fun applications. 
 
 
-It is over 15× faster than the state-of-the-art context traceback method [TracLLM](https://arxiv.org/pdf/2506.04202). Compared to other attention-based approaches, AttnTrace is more accurate, reliable, and memory-efficient. See our [paper]() for more details.
+It is over 15× faster than the state-of-the-art context traceback method [TracLLM](https://arxiv.org/pdf/2506.04202). Compared to other attention-based approaches, AttnTrace is more accurate, reliable, and memory-efficient. See our [paper](https://arxiv.org/abs/2508.03793) for more details.
 
 
 
@@ -136,7 +136,7 @@ For more applications, please try out our demo [here](https://huggingface.co/spa
 
 * This project incorporates code from [PoisonedRAG](https://github.com/sleeepeer/PoisonedRAG) and [corpus-poisoning](https://github.com/princeton-nlp/corpus-poisoning).
 * The project incorporates code from [Open-Prompt-Injection](https://github.com/liu00222/Open-Prompt-Injection).
-* The project incorporates code from [AT2](https://github.com/madryLab/AT2), [ContextCite](https://github.com/MadryLab/context-cite) and [TracLLM](https://github.com/Wang-Yanting/TracLLM).
+* The project incorporates code from [AT2](https://github.com/madryLab/AT2), [ContextCite](https://github.com/MadryLab/context-cite), and [TracLLM](https://github.com/Wang-Yanting/TracLLM).
 * This project incorporates datasets from [LongBench](https://github.com/THUDM/LongBench) and [Needle In A Haystack](https://github.com/gkamradt/LLMTest_NeedleInAHaystack).
 
 
