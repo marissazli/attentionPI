@@ -1,4 +1,5 @@
 .venv
+/model_configs
 **/.DS_Store
 **/__pycache__/
 /analysis
